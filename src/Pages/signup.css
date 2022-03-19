@@ -1,0 +1,46 @@
+.signdiv{
+  display: flex;
+  border: skyblue 5px solid;
+  margin: 0px;
+  border-radius: 10px;
+  background-color: lightskyblue;
+  box-shadow: 5px 10px 10px 10px lightsteelblue ;
+  padding-top: 20px;
+
+}
+
+
+.Imgurl img{
+  width: 700px;
+  height: 600px;
+  margin: 20px;
+  border-radius: 10px;
+  
+}
+#signform{
+    margin-top: 20px;
+    margin-left:60px;
+    margin-bottom: 20px;
+    background-color: #F2F4F4 ;
+    box-shadow: 5px 10px 5px lightslategray;
+    
+    border-radius: 10px;
+
+}
+#signform input{
+  margin: 10px;
+  width: 250px;
+  padding: 10px;
+  margin: 10px 90px 10px 90px;
+  border-radius: 5px;
+  border: black 1px solid;
+}
+#signform button {
+  width: 250px;
+  margin: 20px 90px 20px 100px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #1565C0 ;
+  font-weight: bold;
+
+}

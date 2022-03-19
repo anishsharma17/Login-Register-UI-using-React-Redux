@@ -1,0 +1,40 @@
+.loginPage{
+  background-image: url('https://wallpapercave.com/wp/wp2445788.jpg');
+  position: fixed; 
+  min-width: 100%;
+  min-height: 100%;
+  background-size: cover;
+  margin-top: 0px;
+  
+   
+
+}
+
+
+#loginform{
+    
+   margin: 5% 28% 20px 30%;
+    background-color: white ;
+    box-shadow: 5px 10px 5px lightslategray;
+    text-align: center;
+     border-radius: 10px;
+     padding-bottom: 10px ;
+
+}
+#loginform input{
+  margin: 10px;
+  width: 250px;
+  padding: 10px;
+  margin: 10px 90px 10px 90px;
+  border-radius: 5px;
+  border: black 1px solid;
+}
+#loginform button {
+  width: 250px;
+  margin: 20px 90px 20px 100px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #1565C0 ;
+  font-weight: bold;
+
+}
